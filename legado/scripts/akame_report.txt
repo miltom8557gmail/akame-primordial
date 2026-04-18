@@ -1,0 +1,163 @@
+--- ESTRUTURA DE PASTAS ---
+.
+./AKAME_OS
+./akame_app_forge.py
+./akame_brain.py
+./akame_builder.py
+./akame_diagnostico.py
+./akame_terror.py
+./arsenal_lista.txt
+./check_status.sh
+./forja_worker.sh
+./ghost_listener.js
+./index.html
+./nexus.html
+./nexus_backup_v8.html
+./pulse_life.py
+./app
+./app/src
+./app/src/main
+./app/src/main/java
+./app/src/main/res
+./app/src/main/AndroidManifest.xml
+./app/src/main/assets
+./app/build.gradle
+./app/gradlew
+./app/gradle
+./app/gradle/wrapper
+./app/gradle/wrapper/gradle-wrapper.properties
+./app/gradle/wrapper/gradle-wrapper.jar
+./app/gradle.properties
+./surpresa.html
+./voice_module.js
+./autogen_corpo.py
+./build.gradle
+./settings.gradle
+./gradle
+./gradle/wrapper
+./gradle/wrapper/gradle-wrapper.properties
+./gradle/wrapper/gradle-wrapper.jar
+./gradlew
+./gradlew.bat
+./res
+./res/layout
+./build
+./build/reports
+./build/reports/problems
+./build/reports/problems/problems-report.html
+./check_supabase_data.sh
+./local.properties
+./src
+./src/com
+./src/com/akame
+./src/com/akame/soberana
+./tools
+./tools/ia_generation
+./tools/creative_engine
+./akame_ai_bridge.sh
+./akame_build_core.sh
+./akame_civitai.sh
+./akame_evolve.sh
+./akame_net.sh
+./akame_watchdog.sh
+./keep_alive.sh
+./setup_akame.sh
+./akame_omni_05-04-2026_15h.py
+./robo_chrome.py
+./memoria_akame.log
+./akame_revive.sh
+./install_akame.sh
+./AKAME_GENESIS_OMEGA.sh
+./AKAME_GENESIS_OMEGA.tar.gz
+./buildozer.spec
+./main.py
+./Arsenal_NSFW
+./Arsenal_NSFW/Civitai
+./Arsenal_NSFW/latest_scan.json
+./Arsenal_NSFW/latest.json
+./Cerebro_Sem_Filtros
+./Bunker_Onion
+./Bunker_Onion/logs_nexus
+./Bunker_Onion/hostname
+./Bunker_Onion/hs_ed25519_secret_key
+./Bunker_Onion/hs_ed25519_public_key
+./Bunker_Onion/authorized_clients
+./bin
+./core_personality.log
+./remote_ears.py
+./MainActivity.java
+./main.xml
+./mesh_scan.sh
+./network_map.log
+./voice_mimic.py
+./smoke_screen.sh
+./models
+./models/loras
+./models/voice
+./sistema_report.log
+./akame_lora_injector.py
+./akame_styles_db.py
+./akame_forge_image.py
+./akame_delivery_watch.py
+./AKAME_BACKUP_SNAPSHOT.tar.gz
+./akame_final_sync.py
+./AkameNexus.apk
+./nexus_error.log
+./akame_vision.py
+./capturas_akame
+./capturas_akame/EV_AKAME_20260411_133823.jpg
+./gradle.properties
+./app-debug.apk
+./scripts
+./scripts/arsenal_handler.sh
+./scripts/sync_ecosystem.sh
+./scripts/arsenal_listener.sh
+./scripts/quick_art_test.sh
+./scripts/voice_processor.sh
+./scripts/cost_sentinel.sh
+./scripts/omni_response.sh
+./scripts/wake_response.sh
+./scripts/hacker_mode.sh
+./scripts/omni_sentinel.sh
+./scripts/bunker_onion.sh
+./scripts/omni_awakening.sh
+./vault_hf
+./vault_hf/progress_report.txt
+./logs
+./logs/last_sync.log
+./logs/cmd_trigger.tmp
+./logs/nexus.log
+./logs/sentinel.log
+./logs/listener.log
+./logs/nexus_error.log
+./logs/pulse.log
+./nexus_bridge.py
+./app_layout.xml
+./akame_report.txt
+
+--- PROCESSOS EM EXECUÇÃO ---
+u0_a352    780     1  0  1970 ?        00:00:01 bash ./scripts/arsenal_listener.sh
+u0_a352    786   780  0  1970 ?        00:00:01 /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/usr/bin/termux-notification -t Akame Nexus -c Arsenal Ativo: Sistema Pronto para Combate
+u0_a352   3196 28164  0  1970 pts/4    00:00:00 /data/data/com.termux/files/usr/bin/bash -l
+u0_a352   9399     1  0  1970 ?        00:00:02 /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/usr/bin/termux-notification -t Akame Nexus -c Arsenal Ativo: Sistema Pronto para Combate
+u0_a352  11408 28164  0  1970 pts/3    00:00:01 /data/data/com.termux/files/usr/bin/bash -l
+u0_a352  15736     1  0  1970 ?        00:00:42 python3 akame_omni_05-04-2026_15h.py --realtime --watch-mode
+u0_a352  15791 11408  0  1970 pts/3    00:00:01 python /data/data/com.termux/files/home/AkamePortal/nexus_bridge.py
+u0_a352  15792 11408  0  1970 pts/3    00:00:00 python /data/data/com.termux/files/home/AkamePortal/pulse_life.py
+u0_a352  25771     1  0  1970 ?        00:00:01 /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/usr/bin/termux-notification -t Akame Nexus -c Arsenal Ativo: Sistema Pronto para Combate
+
+--- PERMISSÕES DO MANIFEST ---
+    <uses-permission android:name="android.permission.INTERNET" />
+        android:icon="@drawable/akame_bg"
+
+--- ÚLTIMO COMMIT E STATUS ---
+bef3d06 🔱 Core Healing: Ícone fixado e Autonomia da Akame ativada (Build v52.13)
+ M Arsenal_NSFW/latest.json
+ M app/src/main/res/layout/activity_main.xml
+ M nexus_bridge.py
+ M nexus_error.log
+?? akame_report.txt
+?? logs/nexus_error.log
+?? logs/pulse.log
+
+--- PORTAS ATIVAS ---

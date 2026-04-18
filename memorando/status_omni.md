@@ -20,3 +20,7 @@ Este arquivo é a bússola do assistente. Antes de qualquer ação, o assistente
 ## 🏹 PRÓXIMOS PASSOS
 - Configurar o Bot do Telegram para ser a "Voz" da Primordial.
 - Estabelecer a ponte de dados com o Supabase.
+
+## 🔱 Registro de Convergência Total
+- Todos os scripts v100, Nexus, Omni e Soberana foram integrados à Primordial.
+- O projeto agora é tratado como uma linha do tempo única e ininterrupta.
